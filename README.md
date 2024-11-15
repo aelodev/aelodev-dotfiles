@@ -5,7 +5,7 @@
 - **Terminal:** [Kitty](https://github.com/kovidgoyal/kitty)🙀 with [Catppuccin Mocha theme](https://github.com/catppuccin/kitty/blob/main/themes/mocha.conf) 🐈‍⬛☕️
 - **Panel:** [Waybar](https://github.com/Alexays/Waybar) 📏
 - **Launcher:** [Wofi](https://hg.sr.ht/~scoopta/wofi) 🚀
-- **Editor:** [Nvim](https://neovim.io/) with with [Catppuccin Mocha theme](https://github.com/catppuccin/nvim/) and Plugin Manager with [Vim-Plug](https://github.com/junegunn/vim-plug) 💻🐈‍⬛🔌
+- **Editor:** [Nvim](https://neovim.io/) with [Catppuccin Mocha theme](https://github.com/catppuccin/nvim/) and Plugin Manager with [Vim-Plug](https://github.com/junegunn/vim-plug) 💻🐈‍⬛🔌
 - **Login Manager:** [Hyprlock](https://github.com/hyprwm/hyprlock) 🔒
 - **[Hyprpaper](https://github.com/hyprwm/hyprpaper)** to add wallpapers to Hyprland 🖌
 ---
