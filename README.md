@@ -31,4 +31,7 @@ All this configuration were from 0 in Arch Linux
 
 ---
 
+![image](https://github.com/user-attachments/assets/ff2db679-a607-4e71-9be5-867aef6298c5)
+
+
 *Uploaded by Alejandro Lucena aka Lucenabo*
