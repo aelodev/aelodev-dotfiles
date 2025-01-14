@@ -2,10 +2,10 @@
 
 - **Window Manager:** [Hyprland](https://github.com/hyprwm/Hyprland) 🪟
 - **Shell:** [Zsh](www.zsh.org) 🐚 with [Starship](https://wwww.github.com/starship/starship)🛸
-- **Terminal:** [Kitty](https://github.com/kovidgoyal/kitty)🙀 with [Catppuccin Mocha theme](https://github.com/catppuccin/kitty/blob/main/themes/mocha.conf) 🐈‍⬛☕️
+- **Terminal:** [Ghostty]([https://github.com/kovidgoyal/kitty](https://github.com/ghostty-org/ghostty))👻 with [Catppuccin Mocha theme](https://github.com/catppuccin/kitty/blob/main/themes/mocha.conf) 🐈‍⬛☕️
 - **Panel:** [Waybar](https://github.com/Alexays/Waybar) 📏
-- **Launcher:** [Wofi](https://hg.sr.ht/~scoopta/wofi) 🚀
-- **Editor:** [Nvim](https://neovim.io/) with [Catppuccin Mocha theme](https://github.com/catppuccin/nvim/) and Plugin Manager with [Vim-Plug](https://github.com/junegunn/vim-plug) 💻🐈‍⬛🔌
+- **Launcher:** [Ulauncher](https://github.com/Ulauncher/Ulauncher) 🚀
+- **Editor:** [Zed](https://zed.dev/) with [Catppuccin Mocha theme](https://github.com/catppuccin/nvim/) 💻🐈‍⬛⚡
 - **Login Manager:** [Hyprlock](https://github.com/hyprwm/hyprlock) 🔒
 - **[Hyprpaper](https://github.com/hyprwm/hyprpaper)** to add wallpapers to Hyprland 🖌
 ---
@@ -13,7 +13,7 @@
 ### Fonts Used
 
 - **Waybar:** [JetBrainsMono Nerd Font](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/JetBrainsMono.zip)
-- **Kitty:**  [CaskaydiaCove Nerd Font](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/CascadiaCode.zip)
+- **Ghostty:**  [CaskaydiaCove Nerd Font](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/CascadiaCode.zip)
 - **Other applications:** Default
 
 ---
