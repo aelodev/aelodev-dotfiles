@@ -1,7 +1,7 @@
 # aelodev dotfiles 🧑🏻‍💻️️🐧
 
 - **Window Manager:** [Hyprland](https://github.com/hyprwm/Hyprland) 🪟
-- **Shell:** [Zsh](www.zsh.org) 🐚 with [Starship](https://wwww.github.com/starship/starship)🛸
+- **Shell:** [Zsh](https://www.zsh.org) 🐚 with [Starship](https://wwww.github.com/starship/starship)🛸
 - **Terminal:** [Ghostty](https://github.com/ghostty-org/ghostty) 👻 with [Catppuccin Mocha theme](https://github.com/catppuccin/kitty/blob/main/themes/mocha.conf) 🐈‍⬛☕️
 - **Panel:** [Waybar](https://github.com/Alexays/Waybar) 📏
 - **Launcher:** [Ulauncher](https://github.com/Ulauncher/Ulauncher) 🚀
